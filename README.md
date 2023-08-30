@@ -7,10 +7,9 @@
 ### About me
 
 - 🔭 I’m currently working as a Full Stack Software Engineer
-- 📖 I’m have a Bachelor's Degree in Information Systems Engineering (UTN FBRA)
+- 📖 I have a Bachelor's Degree in Information Systems Engineering (UTN FBRA)
 - 🍋 I’m interested in Web Development, Data Science and Blockchain technologies
 - 🏀 I like playing Basketball and Volleyball
-- ⚡ I like Anime and Videogames
 
 ## Technologies
 
@@ -34,11 +33,3 @@
     <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=maurocicerchia&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats">
     <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=maurocicerchia&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="Streak Stats">
 </div>
-
-<!--
-**MauroCicerchia/MauroCicerchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->

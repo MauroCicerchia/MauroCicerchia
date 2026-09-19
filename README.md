@@ -1,35 +1,62 @@
-![image](https://user-images.githubusercontent.com/25493851/189450872-1d886377-a98b-412e-b47c-6ebed75745c2.png)
-## Welcome to my profile 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-cicerchia/)](https://www.linkedin.com/in/mauro-cicerchia/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maurocicerchia98@gmail.com)](mailto:maurocicerchia98@gmail.com)
-
-### About me
-
-- 🔭 I’m currently working as a Full Stack Software Engineer
-- 📖 I have a Bachelor's Degree in Information Systems Engineering (UTN FBRA)
-- 🍋 I’m interested in Web Development, Data Science and Blockchain technologies
-- 🏀 I like playing Basketball and Volleyball
-
-## Technologies
-
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0089D6?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-0F3074?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  
+
+# Mauro Cicerchia
+
+**Senior Backend Engineer** · Distributed Systems · AI-Assisted Software Development
+
+Buenos Aires, Argentina 🇦🇷
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-cicerchia/)
+[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:maurocicerchia98@gmail.com)
+
 </div>
 
+---
+
+### About
+
+I build reliable backend systems, developer tooling, and products where **architecture, developer experience, and operational simplicity** matter.
+
+I'm currently a **Senior Backend Engineer at Humand**. Previously, I worked on infrastructure and product engineering at **Decentraland**.
+
+Lately, I've been especially interested in how AI agents change the way software gets built — not just code generation, but the workflows, guardrails, review boundaries, and tooling required to let agents operate autonomously without giving up engineering discipline.
+
+### Selected work
+
+#### [Plus Ultra](https://github.com/MauroCicerchia/plus-ultra)
+
+A software development harness for coding agents.
+
+It takes a product idea through structured discovery, GitHub Issues, implementation, testing, and review-ready pull requests — while keeping humans in control of product direction, significant technical decisions, UI/UX, and final integration.
+
+`AI Agents` · `Developer Tooling` · `GitHub` · `Software Engineering`
+
+#### [Kenshin UI](https://github.com/MauroCicerchia/kenshinx-ui)
+
+My personal React component library and design system, built around reusable primitives, Storybook, Tailwind CSS, and shadcn/ui patterns.
+
+`React` · `TypeScript` · `Storybook` · `Design Systems`
+
+### Engineering toolbox
+
+**Backend & systems**  
+`TypeScript` · `Node.js` · `.NET` · `PostgreSQL` · `Redis` · `MongoDB`
+
+**Infrastructure & cloud**  
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `GitHub Actions`
+
+**Product & UI**  
+`React` · `Tailwind CSS` · `shadcn/ui` · `Storybook`
+
+**AI-assisted development**  
+`Codex` · `Claude Code` · `AI Agents` · `Agentic Workflows`
+
+### Beyond code
+
+Basketball, Japanese, espresso, electronic music, good interfaces, and building side projects that probably started as "this would be useful if it existed."
+
+---
+
 <div align="center">
-    <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=maurocicerchia&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-    <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=maurocicerchia&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="Streak Stats">
+  <sub>Build systems that make complexity easier to reason about.</sub>
 </div>

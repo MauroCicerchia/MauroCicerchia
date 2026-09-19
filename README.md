@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Mauro Cicerchia — Japanese minimalist banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Mauro Cicerchia
